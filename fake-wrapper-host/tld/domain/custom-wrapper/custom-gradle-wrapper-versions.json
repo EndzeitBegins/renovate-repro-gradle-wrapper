@@ -10,9 +10,9 @@
     "rcFor": "",
     "milestoneFor": "",
     "broken": false,
-    "downloadUrl": "https://raw.githubusercontent.com/EndzeitBegins/renovate-repro-gradle-wrapper/main/fake-wrapper-host/tld/domain/custom-wrapper/1.1.0/custom-gradle-1.1.0-bin.zip",
-    "checksumUrl": "https://raw.githubusercontent.com/EndzeitBegins/renovate-repro-gradle-wrapper/main/fake-wrapper-host/tld/domain/custom-wrapper/1.1.0/custom-gradle-1.1.0-bin.zip.sha256",
-    "wrapperChecksumUrl": "https://raw.githubusercontent.com/EndzeitBegins/renovate-repro-gradle-wrapper/main/fake-wrapper-host/tld/domain/custom-wrapper/1.1.0/custom-gradle-1.1.0-wrapper-jar.sha256"
+    "downloadUrl": "https://github.com/EndzeitBegins/renovate-repro-gradle-wrapper/raw/main/fake-wrapper-host/tld/domain/custom-wrapper/1.1.0/custom-gradle-1.1.0-bin.zip",
+    "checksumUrl": "https://github.com/EndzeitBegins/renovate-repro-gradle-wrapper/raw/main/fake-wrapper-host/tld/domain/custom-wrapper/1.1.0/custom-gradle-1.1.0-bin.zip.sha256",
+    "wrapperChecksumUrl": "https://github.com/EndzeitBegins/renovate-repro-gradle-wrapper/raw/main/fake-wrapper-host/tld/domain/custom-wrapper/1.1.0/custom-gradle-1.1.0-wrapper-jar.sha256"
   },
   {
     "version": "1.0.0",
@@ -25,8 +25,8 @@
     "rcFor": "",
     "milestoneFor": "",
     "broken": false,
-    "downloadUrl": "https://raw.githubusercontent.com/EndzeitBegins/renovate-repro-gradle-wrapper/main/fake-wrapper-host/tld/domain/custom-wrapper/1.0.0/custom-gradle-1.0.0-bin.zip",
-    "checksumUrl": "https://raw.githubusercontent.com/EndzeitBegins/renovate-repro-gradle-wrapper/main/fake-wrapper-host/tld/domain/custom-wrapper/1.0.0/custom-gradle-1.0.0-bin.zip.sha256",
-    "wrapperChecksumUrl": "https://raw.githubusercontent.com/EndzeitBegins/renovate-repro-gradle-wrapper/main/fake-wrapper-host/tld/domain/custom-wrapper/1.0.0/custom-gradle-1.0.0-wrapper-jar.sha256"
+    "downloadUrl": "https://github.com/EndzeitBegins/renovate-repro-gradle-wrapper/raw/main/fake-wrapper-host/tld/domain/custom-wrapper/1.0.0/custom-gradle-1.0.0-bin.zip",
+    "checksumUrl": "https://github.com/EndzeitBegins/renovate-repro-gradle-wrapper/raw/main/fake-wrapper-host/tld/domain/custom-wrapper/1.0.0/custom-gradle-1.0.0-bin.zip.sha256",
+    "wrapperChecksumUrl": "https://github.com/EndzeitBegins/renovate-repro-gradle-wrapper/raw/main/fake-wrapper-host/tld/domain/custom-wrapper/1.0.0/custom-gradle-1.0.0-wrapper-jar.sha256"
   }
 ]
