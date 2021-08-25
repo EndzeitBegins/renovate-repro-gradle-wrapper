@@ -1,5 +1,11 @@
 {
   "extends": [
     "config:base"
+  ],
+  "packageRules": [
+    {
+      "matchDatasources": ["gradle-version"],
+      "registryUrls": ["https://github.com/EndzeitBegins/renovate-repro-gradle-wrapper/raw/main/fake-wrapper-host/tld/domain/custom-wrapper/custom-gradle-wrapper-versions.json"]
+    }
   ]
 }
