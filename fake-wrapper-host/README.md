@@ -11,3 +11,6 @@ in order to extract available versions for the Gradle Wrapper.
 This is mimicked by the 
 [custom-gradle-wrapper-versions.json](tld/domain/custom-wrapper/custom-gradle-wrapper-versions.json) 
 file. 
+
+The example "custom" wrapper files included in this repository
+are just the official Gradle Wrapper in version 7.2.
